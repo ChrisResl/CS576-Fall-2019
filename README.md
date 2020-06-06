@@ -4,9 +4,9 @@
 
 - [GitHub Repo](https://github.com/ShawnZhong/CS576-Fall-2019)
 
-- [Past Exams](Past%20Exams)
-
 - [Slides](Slides)
+
+- [Past Exams](Past%20Exams)
 
 ## Notebooks
 
