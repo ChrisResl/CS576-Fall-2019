@@ -1,5 +1,7 @@
 # BMI/CS 576 (Fall 2019): Introduction To Bioinformatics @ UWMadison
 
+## Notebook
+
 | | Name | Starter | Submission | Solution |
 | --- | --- | --- | --- | --- |
 |Day 01|Python Basics|[Starter](Day%2001%20-%20Python%20Basics/Starter/notebook.ipynb)|[Submission](Day%2001%20-%20Python%20Basics/Submission/notebook.ipynb)|[Solution](Day%2001%20-%20Python%20Basics/Solution/notebook.ipynb)
@@ -28,6 +30,11 @@
 |Day 24|Bayesian Network Structures|[Starter](Day%2024%20-%20Bayesian%20Network%20Structures/Starter/notebook.ipynb)|[Submission](Day%2024%20-%20Bayesian%20Network%20Structures/Submission/notebook.ipynb)|[Solution](Day%2024%20-%20Bayesian%20Network%20Structures/Solution/notebook.ipynb)
 |Day 25|Sparse Candidate Algorithm|[Starter](Day%2025%20-%20Sparse%20Candidate%20Algorithm/Starter/notebook.ipynb)|[Submission](Day%2025%20-%20Sparse%20Candidate%20Algorithm/Submission/notebook.ipynb)|[Solution](Day%2025%20-%20Sparse%20Candidate%20Algorithm/Solution/notebook.ipynb)
 |Day 26|Feature Confidence|[Starter](Day%2026%20-%20Feature%20Confidence/Starter/notebook.ipynb)|[Submission](Day%2026%20-%20Feature%20Confidence/Submission/notebook.ipynb)|[Solution](Day%2026%20-%20Feature%20Confidence/Solution/notebook.ipynb)
+
+## Homework 
+
+| | Name | Starter | Submission | Solution |
+| --- | --- | --- | --- | --- |
 |HW 1|Sequence Assembly|[Starter](HW%201%20-%20Sequence%20Assembly/Starter/notebook.ipynb)|[Submission](HW%201%20-%20Sequence%20Assembly/Submission/notebook.ipynb)|[Solution](HW%201%20-%20Sequence%20Assembly/Solution/notebook.ipynb)
 |HW 2|Sequence Alignment|[Starter](HW%202%20-%20Sequence%20Alignment/Starter/notebook.ipynb)|[Submission](HW%202%20-%20Sequence%20Alignment/Submission/notebook.ipynb)|[Solution](HW%202%20-%20Sequence%20Alignment/Solution/notebook.ipynb)
 |HW 3|Neighbor Joining, Parsimony, Branch & Bound|[Starter](HW%203%20-%20Neighbor%20Joining%2C%20Parsimony%2C%20Branch%20%26%20Bound/Starter/notebook.ipynb)|[Submission](HW%203%20-%20Neighbor%20Joining%2C%20Parsimony%2C%20Branch%20%26%20Bound/Submission/notebook.ipynb)|[Solution](HW%203%20-%20Neighbor%20Joining%2C%20Parsimony%2C%20Branch%20%26%20Bound/Solution/notebook.ipynb)
