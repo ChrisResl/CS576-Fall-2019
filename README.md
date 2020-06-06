@@ -1,6 +1,14 @@
 # BMI/CS 576 (Fall 2019): Introduction To Bioinformatics @ UW-Madison
 
-## Notebook
+## Links
+
+- [GitHub Repo](https://github.com/ShawnZhong/CS576-Fall-2019)
+
+- [Past Exams](Past%20Exams)
+
+- [Slides](Slides)
+
+## Notebooks
 
 | | Name | Starter | Submission | Solution |
 | --- | --- | --- | --- | --- |
@@ -31,7 +39,7 @@
 |Day 25|Sparse Candidate Algorithm|[Starter](Day%2025%20-%20Sparse%20Candidate%20Algorithm/Starter/notebook.ipynb)|[Submission](Day%2025%20-%20Sparse%20Candidate%20Algorithm/Submission/notebook.ipynb)|[Solution](Day%2025%20-%20Sparse%20Candidate%20Algorithm/Solution/notebook.ipynb)
 |Day 26|Feature Confidence|[Starter](Day%2026%20-%20Feature%20Confidence/Starter/notebook.ipynb)|[Submission](Day%2026%20-%20Feature%20Confidence/Submission/notebook.ipynb)|[Solution](Day%2026%20-%20Feature%20Confidence/Solution/notebook.ipynb)
 
-## Homework 
+## Homework
 
 | | Name | Starter | Submission | Solution |
 | --- | --- | --- | --- | --- |
@@ -41,4 +49,3 @@
 |HW 4|HMM|[Starter](HW%204%20-%20HMM/Starter/notebook.ipynb)|[Submission](HW%204%20-%20HMM/Submission/notebook.ipynb)|[Solution](HW%204%20-%20HMM/Solution/notebook.ipynb)
 |HW 5|Clustering|[Starter](HW%205%20-%20Clustering/Starter/notebook.ipynb)|[Submission](HW%205%20-%20Clustering/Submission/notebook.ipynb)|[Solution](HW%205%20-%20Clustering/Solution/notebook.ipynb)
 |HW 6|Bayesian Network|[Starter](HW%206%20-%20Bayesian%20Network/Starter/notebook.ipynb)|[Submission](HW%206%20-%20Bayesian%20Network/Submission/notebook.ipynb)|[Solution](HW%206%20-%20Bayesian%20Network/Solution/notebook.ipynb)
-
